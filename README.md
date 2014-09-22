@@ -1,4 +1,4 @@
 OPDrunkenNights
 ===============
 
-Testing push requests -icyan
+Testing pull requests -icyan
